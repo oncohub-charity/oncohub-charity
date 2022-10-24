@@ -3,6 +3,8 @@
 <a href="https://oncohub.xyz" target="_blank">
 <img src="https://user-images.githubusercontent.com/34304253/197536055-f76de58c-31e1-4cbf-a634-5e13b0722613.svg" width="100" alt="Chainlink logo">
 </a>
+</p>
+<p align="center">
 ONCOHUB
 </p>
 <br/>
