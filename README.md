@@ -5,7 +5,7 @@
 </a>
 </p>
 <p align="center">
-ONCOHUB
+OncoHub
 </p>
 <br/>
 
