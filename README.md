@@ -1,10 +1,11 @@
 <br/>
 <p align="center">
 <a href="https://oncohub.xyz" target="_blank">
-<img src="https://user-images.githubusercontent.com/34304253/197535849-42e8784f-deff-4fcb-a369-a1c24431ac00.svg" width="225" alt="Chainlink logo">
+<img src="https://user-images.githubusercontent.com/34304253/197536055-f76de58c-31e1-4cbf-a634-5e13b0722613.svg" width="225" alt="Chainlink logo">
 </a>
 </p>
 <br/>
+
 
 We realize how important is advanced technology in medicine, especially data science, we also realize how expensive is work of data sciencies.
 
