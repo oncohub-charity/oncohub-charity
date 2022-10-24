@@ -9,5 +9,6 @@ OncoHub
 </p>
 <br/>
 
-The place where Open Source Community try to overcome oncology chalanges. 
+The place where open source community try to overcome oncology chalanges.
+<br/>
 Data science has huge influence on medicine today. Mission of this organization is to gather people willing contribute to open source projects related to oncology.
