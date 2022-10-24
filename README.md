@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
 <a href="https://oncohub.xyz" target="_blank">
-<img src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" width="225" alt="Chainlink logo">
+<img src="https://user-images.githubusercontent.com/34304253/197535849-42e8784f-deff-4fcb-a369-a1c24431ac00.svg" width="225" alt="Chainlink logo">
 </a>
 </p>
 <br/>
