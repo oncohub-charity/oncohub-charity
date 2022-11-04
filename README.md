@@ -13,6 +13,13 @@ The place where open source community try to overcome oncology chalanges.
 <br/>
 Data science has huge influence on medicine today. Mission of this organization is to gather people willing contribute to open source projects related to oncology.
 
+Area of interest:
+- immunotherapy
+in the future:
+- phytotherapy
+- nutrition science
+- and more
+
 to learn more:
 - visit official <a href="https://oncohub.xyz" target="_blank">website</a>
 - ask any question, give advise and create community with as on our <a href="https://discord.com/invite/VXHAFtya" target="_blank">discord</a> channel
