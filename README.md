@@ -22,7 +22,7 @@ As a start point we take a look at sarcoma.
 
 ## Community and resources:
 - visit official <a href="https://oncohub.xyz" target="_blank">webside</a>
-- to ask general, medical questions, project proposition, give advise and create community with us, join to our <a href="https://discord.gg/CWCHmCdD" target="_blank">discord</a> channel
+- to ask general, medical questions, project proposition, give advise and create community with us, join to our <a href="https://discord.gg/cxmFYnzyjS" target="_blank">discord</a> channel
 - for devs 🧙, to ask technical question for specific project better is to ask in github discussion tab
 
 ## Contribute
