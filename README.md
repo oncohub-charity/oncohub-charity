@@ -8,12 +8,8 @@
 OncoHub
 </p>
 <br/>
-
 The place where open source community try to overcome oncology challenges.
 <br/>
-
-## Overview
-
 Data science has huge influence on medicine today. Mission of this organization is to gather people willing contribute to open source projects related to oncology.
 
 Area of interest:
@@ -25,9 +21,10 @@ in the future:
 
 As a start point we take a look at sarcoma.
 
-## Learn more:
+## Community and resources:
 - visit official <a href="https://oncohub.xyz" target="_blank">website</a>
-- ask any question, give advise and create community with as on our <a href="https://discord.gg/GtTQqU9t" target="_blank">discord</a> channel
+- to ask general, medical questions, project proposition, give advise and create community with us, join to our <a href="https://discord.gg/GtTQqU9t" target="_blank">discord</a> channel
+- for devs, to ask technical question for specific project better is to ask in github discussion tab
 
 ## Contribute
 
