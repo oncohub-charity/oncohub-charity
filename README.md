@@ -27,7 +27,7 @@ As a start point we take a look at sarcoma.
 
 ## Contribute
 
-OncoHub Organization can has impact on oncology only thanks to its contributors. There are many ways you can participate and help build army against cancer. Check out the [contribution guide](CONTRIBUTING.md)!
+OncoHub Organization can has impact on oncology only thanks to its contributors. There are many ways you can participate and help build army⚔ against cancer. Check out the [contribution guide](CONTRIBUTING.md)!
 
 ## License
 
