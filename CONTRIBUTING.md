@@ -20,7 +20,22 @@ There are many ways how you can contribute.
 ### coding 💻
 
 You can select repository which is most interesting for you and start contribute. Just open an issue, or send a pull request on GitHub.
-
+Steps:
+1. forke selected repo
+2. clone project to the local machine
+3. add the original repo to remote:
+`git remote add upstream git@github.com:selected_repo.git`
+4. create a new feature branch: 
+`git checkout -b feature_branch`
+5. make changes
+6. `git add -p`
+7. `git commit`
+8. `git push origin feature_branch`
+9. go to GitHub and 'Compare & pull request'
+10. add description
+11. create pull request
+12. wait for somebody to review
+13. if ok, the maintainer click 'Confirm squash and merge'
 
 ### medical consulting 🥼
 
