@@ -12,7 +12,7 @@ Feel free to ask questions on our <a href="https://discord.gg/cxmFYnzyjS" target
 
 There are many ways how you can contribute.
 
-### social marketing
+### social marketing 📢
 - follow our <a>twitter</a> account
 - follow our <a>linkedin</a> account
 - if you would like to support us with webside SEO or any other marketing activity (contact directly to email: oncohub@proton.me)
