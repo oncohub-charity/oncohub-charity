@@ -8,9 +8,9 @@
 OncoHub
 </p>
 <br/>
-The place where open source community try to overcome oncology challenges 🧬.
+The place where the open source community tries to overcome oncology challenges 🧬.
 <br/>
-Data science has huge influence on medicine today. Mission of this organization is to gather people 🤝 willing contribute to open source projects related to oncology.
+Data science has huge influence on medicine today. The mission of this organization is to gather people 🤝 willing to contribute to open-source projects related to oncology.
 
 Area of interest:
 - immunotherapy
@@ -18,16 +18,17 @@ Area of interest:
 - nutrition science
 - and more
 
-As a start point we take a look at sarcoma.
+As a starting point we take a look at sarcoma.
 
-## Community and resources:
-- visit official <a href="https://oncohub.xyz" target="_blank">webside</a>
-- to ask general, medical questions, project proposition, give advise and create community with us, join to our <a href="https://discord.gg/cxmFYnzyjS" target="_blank">discord</a> channel
-- for devs 🧙, to ask technical question for specific project, go to discussion tab in choosen github repo
+## Community and resources
+
+- visit official <a href="https://oncohub.xyz" target="_blank">website</a>
+- to ask general, medical questions, and project propositions, give advice, and create a community with us, join our <a href="https://discord.gg/cxmFYnzyjS" target="_blank">discord</a> channel
+- for devs 🧙, to ask technical questions for a specific project, go to the discussion tab in chosen GitHub repo
 
 ## Contribute
 
-OncoHub Organization can has impact on oncology only thanks to its contributors. There are many ways you can participate and help build army⚔ against cancer. Check out the [contribution guide](CONTRIBUTING.md)!
+OncoHub Organization can have an impact on oncology only thanks to its contributors. There are many ways you can participate and help build an army⚔ against cancer. Check out the [contribution guide](CONTRIBUTING.md)!
 
 ## License
 
