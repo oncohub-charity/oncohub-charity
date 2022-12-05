@@ -6,20 +6,20 @@ Every contribution is important.</br>
 The OncoHub source code is under the [MIT License](LICENSE).
 </br>
 </br>
-Feel free to ask questions on our <a href="https://discord.gg/cxmFYnzyjS" target="_blank">discord</a> channel or on github discussion tab which is or will be present in every repo.
+Feel free to ask questions on our <a href="https://discord.gg/cxmFYnzyjS" target="_blank">discord</a> channel or on the GitHub discussion tab which is or will be present in every repo.
 
 ## how can I contribute?
 
 There are many ways how you can contribute.
 
 ### social marketing 📢
-- follow our <a>twitter</a> account
-- follow our <a>linkedin</a> account
+- follow our <a>Twitter</a> account
+- follow our <a>Linkedin</a> account
 - if you would like to support us with webside SEO or any other marketing activity (contact directly to email: oncohub@proton.me)
 
 ### coding 💻
 
-You can select repository which is most interesting for you and start contribute. Just open an issue, or send a pull request on GitHub.
+You can select a repository that is most interesting for you and start contributing. Just open an issue, or send a pull request on GitHub.
 Steps:
 1. forke selected repo
 2. clone project to the local machine
@@ -39,4 +39,4 @@ Steps:
 
 ### medical consulting 🥼
 
-If you are doctor, sciencist in medical domain, you can become our consultant (contact directly to email: oncohub@proton.me)
+If you are a doctor or scientist in the medical domain, you can become our consultant (contact directly to email: oncohub@proton.me)
