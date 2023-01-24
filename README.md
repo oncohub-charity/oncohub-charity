@@ -1,8 +1,8 @@
 <br/>
 <p align="center">
 <a href="https://oncohub.xyz" target="_blank">
-<img src="https://user-images.githubusercontent.com/34304253/197536055-f76de58c-31e1-4cbf-a634-5e13b0722613.svg" width="100" alt="Chainlink logo">
-</a>
+<img src="https://user-images.githubusercontent.com/34304253/214382281-90494e68-d148-4dbb-b008-e4c02cc7bfff.png" width="100" alt="Oncohub logo">
+
 </p>
 <p align="center">
 OncoHub
