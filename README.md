@@ -25,6 +25,7 @@ As a starting point we take a look at sarcoma.
 - visit official <a href="https://oncohub.xyz" target="_blank">website</a>
 - to ask general, medical questions, and project propositions, give advice, and create a community with us, join our <a href="https://discord.gg/cxmFYnzyjS" target="_blank">discord</a> channel
 - for devs 🧙, to ask technical questions for a specific project, go to the discussion tab in chosen GitHub repo
+- open oncological data tree stored on IPFS. IPNS address: k51qzi5uqu5djn9ynztm76s4ejbnkbrz52u48z4ccbuk9x6msgfk53w2qpmjmt
 
 ## Contribute
 
