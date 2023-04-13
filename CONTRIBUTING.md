@@ -15,7 +15,7 @@ There are many ways how you can contribute.
 ### social marketing 📢
 - follow our <a>Twitter</a> account
 - follow our <a>Linkedin</a> account
-- if you would like to support us with webside SEO or any other marketing activity (contact directly to email: oncohub@proton.me)
+- if you would like to support us with webside SEO or any other marketing activity (text message on <a href="https://discord.gg/wEHXKqXKTA" target="_blank">discord</a> or contact directly to email: oncohub@proton.me)
 
 ### coding 💻
 
@@ -39,4 +39,4 @@ Steps:
 
 ### medical consulting 🥼
 
-If you are a doctor or scientist in the medical domain, you can become our consultant (contact directly to email: oncohub@proton.me)
+If you are a doctor or scientist in the medical domain, you can become our consultant (text message on <a href="https://discord.gg/wEHXKqXKTA" target="_blank">discord</a> or contact directly to email: oncohub@proton.me)
