@@ -32,20 +32,21 @@ You can select a repository that is most interesting for you and start contribut
 4. create a new feature branch: 
 `git checkout -b feature_branch`
 5. make changes
-6. ????testing, pre-commit
-7. `git add -p`
-8. `git commit`
-9. before open PR, please rebase your branch on upstream (be sure you are on your feature branch):
+6. linting, black, mypy, etc.: run: `pre-commit run --all-files`
+7. testing: in root directory run: `pytest`
+8. `git add -p`
+9. `git commit`
+10. before open PR, please rebase your branch on upstream (be sure you are on your feature branch):
 `git pull --rebase origin dev`
 This will pull the latest changes from the dev branch on the remote repository and apply them to your local branch.
-9. If there are any conflicts, you will need to resolve them manually.
-10. before push please squash multiple related commits into one (Pull Request should contain either a single commit, or several unrelated commits)
-11. `git push -f origin feature_branch`
-12. go to GitHub and 'Compare & pull request'
-13. add description
-14. create pull request
-15. wait for somebody to review
-16. if ok, the maintainer click 'Confirm squash and merge'
+11. If there are any conflicts, you will need to resolve them manually.
+12. before push please squash multiple related commits into one (Pull Request should contain either a single commit, or several unrelated commits)
+13. `git push -f origin feature_branch`
+14. go to GitHub and 'Compare & pull request'
+15. add description
+16. create pull request
+17. wait for somebody to review
+18. if ok, the maintainer click 'Confirm squash and merge'
 
 #### found the bug?
 Please open an issue with following information:
