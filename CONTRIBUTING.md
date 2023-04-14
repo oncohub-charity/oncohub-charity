@@ -8,7 +8,7 @@ The OncoHub source code is under the [MIT License](LICENSE).
 Feel free to ask questions on our <a href="https://discord.gg/wEHXKqXKTA" target="_blank">discord</a> channel.
 
 Before contributing please read our code of conduct:
-([code of conduct](CODE_OF_CONDUCT.md).
+[code of conduct](CODE_OF_CONDUCT.md).
 
 ## How can I contribute?
 
@@ -44,7 +44,7 @@ This will pull the latest changes from the dev branch on the remote repository a
 13. `git push -f origin feature_branch`
 14. go to GitHub and 'Compare & pull request'
 15. add description
-16. create pull request
+16. create pull requestCONTRIBUTING
 17. wait for somebody to review
 18. if ok, the maintainer clicks 'Confirm squash and merge'
 
