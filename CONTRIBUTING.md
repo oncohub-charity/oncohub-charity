@@ -14,13 +14,13 @@ Before contributing please read our code of conduct:
 
 There are many ways how you can contribute.
 
-### social marketing 
+### social marketing 📣
 - follow our <a>Twitter</a> account
 - follow our <a>Linkedin</a> account
 - tell other friends about us
 - if you would like to support us with website SEO or any other marketing activity (text message on <a href="https://discord.gg/wEHXKqXKTA" target="_blank">discord</a> or contact directly to email: oncohub@proton.me)
 
-### coding 
+### coding 💻
 
 You can select a repository that is most interesting for you and start contributing. Just open an issue, or send a pull request on GitHub.
 
