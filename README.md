@@ -2,8 +2,10 @@
 <p align="center">
 <a href="https://oncohub.xyz" target="_blank">
 <img src="https://user-images.githubusercontent.com/34304253/214382281-90494e68-d148-4dbb-b008-e4c02cc7bfff.png" width="100" alt="Oncohub logo">
-[![GitHub](https://img.shields.io/github/license/oncohub-lab/oncohub-lab)](https://github.com/oncohub-lab/oncohub-lab/blob/master/LICENSE)
 </p>
+
+[![GitHub](https://img.shields.io/github/license/oncohub-lab/oncohub-lab)](https://github.com/oncohub-lab/oncohub-lab/blob/master/LICENSE)  
+
 <p align="center">
 OncoHub
 </p>
