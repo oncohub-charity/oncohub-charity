@@ -5,7 +5,7 @@ Every contribution is important.</br>
 The OncoHub source code is under the [MIT License](LICENSE).
 </br>
 </br>
-Feel free to ask questions on our <a href="https://discord.gg/wEHXKqXKTA" target="_blank">discord</a> channel or on the GitHub discussion tab which is or will be present in every repo.
+Feel free to ask questions on our <a href="https://discord.gg/wEHXKqXKTA" target="_blank">discord</a> channel.
 
 Before contribute please read our code of conduct:
 [code of conduct](https://github.com/huggingface/transformers/blob/main/CODE_OF_CONDUCT.md).
