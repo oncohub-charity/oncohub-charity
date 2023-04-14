@@ -1,14 +1,8 @@
-    <p align="center">
-    <a href="https://oncohub.xyz">
-        <img alt="website" src="https://img.shields.io/website/http/huggingface.co/docs/transformers/index.svg?down_color=red&down_message=offline&up_message=online">
-    </a>
-    </p>
-
 <br/>
 <p align="center">
 <a href="https://oncohub.xyz" target="_blank">
 <img src="https://user-images.githubusercontent.com/34304253/214382281-90494e68-d148-4dbb-b008-e4c02cc7bfff.png" width="100" alt="Oncohub logo">
-
+[![GitHub](https://img.shields.io/github/license/oncohub-lab/oncohub-lab)](https://github.com/oncohub-lab/oncohub-lab/blob/master/LICENSE)
 </p>
 <p align="center">
 OncoHub
