@@ -6,6 +6,8 @@
 <p align="center">
     <a href="https://github.com/oncohub-lab/oncohub-lab/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/oncohub-lab/oncohub-lab"></a>
+    <a href="CODE_OF_CONDUCT.md">
+    <img alt="Contributor Covenant" src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg"></a>
     <a href="https://discord.gg/cxmFYnzyjS">
     <img alt="Discord server" src="https://img.shields.io/discord/217649733915770880?label=Discord&logo=discord&style=flat-square"></a>
 </p>
