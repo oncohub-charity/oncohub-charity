@@ -1,14 +1,12 @@
 <br/>
 <p align="center">
-<a href="https://oncohub.xyz" target="_blank">
-<img src="https://user-images.githubusercontent.com/34304253/214382281-90494e68-d148-4dbb-b008-e4c02cc7bfff.png" width="100" alt="Oncohub logo">
+  <a href="https://oncohub.xyz" target="_blank">
+    <img src="https://user-images.githubusercontent.com/34304253/214382281-90494e68-d148-4dbb-b008-e4c02cc7bfff.png" width="100" alt="Oncohub logo">
 </p>
-
-[![GitHub](https://img.shields.io/github/license/oncohub-lab/oncohub-lab)](https://github.com/oncohub-lab/oncohub-lab/blob/master/LICENSE)  
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-[![Website](https://img.shields.io/website?up_message=oncohub&url=https%3A%2F%2Foncohub.xyz)](www.oncohub.xyz)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter)
+<p align="center">
+    <a href="https://s.tcno.co/AccSwitcherDiscord">
+    <img alt="Discord server" src="https://img.shields.io/discord/217649733915770880?label=Discord&logo=discord&style=flat-square"></a>
+</p>
 
 <p align="center">
 OncoHub
