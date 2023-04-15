@@ -7,6 +7,7 @@
 [![GitHub](https://img.shields.io/github/license/oncohub-lab/oncohub-lab)](https://github.com/oncohub-lab/oncohub-lab/blob/master/LICENSE)  
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![Website](https://img.shields.io/website?up_message=oncohub&url=https%3A%2F%2Foncohub.xyz)](www.oncohub.xyz)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord)
 
 <p align="center">
 OncoHub
