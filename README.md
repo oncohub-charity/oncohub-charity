@@ -22,31 +22,21 @@
 </p>
 
 <p align="center">
-OncoHub
+OncoHub Charity
 </p>
 <br/>
-The place where the open source community tries to overcome oncology challenges 🧬.
+Crypto-based protocol built for oncology challenges 🧬.
 <br/>
-Data science has huge influence on medicine today. The mission of this organization is to gather people 🤝 willing to contribute to open-source projects related to oncology.
-
-Area of interest:
-- immunotherapy
-- phytotherapy
-- nutrition science
-- and more
-
-As a starting point we take a look at sarcoma.
+The mission is to gather funds for oncology, with an additional incentive layer for ... 
 
 ## Community and resources
 
 - visit official <a href="https://oncohub.xyz" target="_blank">website</a>
-- to ask general, medical questions, and project propositions, give advice, and create a community with us, join our <a href="https://discord.gg/cxmFYnzyjS" target="_blank">discord</a> channel
-- for devs 🧙, to ask technical questions for a specific project, go to the discussion tab in chosen GitHub repo
-- open oncological data tree stored on IPFS. IPNS address: k51qzi5uqu5djn9ynztm76s4ejbnkbrz52u48z4ccbuk9x6msgfk53w2qpmjmt
+- questions? join our <a href="https://discord.gg/cxmFYnzyjS" target="_blank">discord</a> channel
 
 ## Contribute
 
-OncoHub Organization can have an impact on oncology only thanks to its contributors. There are many ways you can participate and help build an army⚔ against cancer. Check out the [contribution guide](CONTRIBUTING.md)!
+OncoHub Charity can have an impact on oncology only thanks to its contributors. There are many ways you can participate and help build an army⚔ against cancer. Check out the [contribution guide](CONTRIBUTING.md)!
 
 ## License
 
