@@ -27,7 +27,24 @@ OncoHub Charity
 <br/>
 Crypto-based protocol built for oncology challenges 🧬.
 <br/>
-The mission is to gather funds for oncology, with an additional incentive layer for ... 
+The mission is to gather funds for oncology, with an additional incentive layer for contributors. 
+Every interaction with the protocol takes 1% of the fee which is a charity fuel.
+The ability to add or remove charity to the protocol constitutes a filter where people which holds tokens can add interesting charities and remove them if are suspicious.
+
+<p align="center">
+OH token utility
+</p>
+
+- stake to earn ETH which is gathered from fees which is generated from activity on the protocol
+- governance - tokens grand you vote power to add or remove a particular charity which we should support
+
+<p align="center">
+Protocol features
+</p>
+
+- NFT auctions for charity
+- holders can create charity proposals to add/remove to/from the current list
+- on-chain advertisement time for holders
 
 ## Community and resources
 
