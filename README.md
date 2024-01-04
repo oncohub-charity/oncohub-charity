@@ -42,8 +42,8 @@ OH token utility
 Protocol features
 </p>
 
-- NFT auctions for charity
-- holders can create charity proposals to add/remove to/from the current list
+- charity which are decetralize governace by community token holders (holders can vote to add/remove  charity proposals)
+- educational NFT auctions for charity
 - on-chain advertisement time for holders
 
 ## Community and resources
